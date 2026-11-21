@@ -1,8 +1,8 @@
 # GTA 6 Meme: Certificate of Live Birth
 
 [![Bounty](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![Rank](https://make.fun/badge/gta6-meme-x-01/Indramunggahari10/gta6-meme-x-01-v4-ono10/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![Reward](https://make.fun/badge/gta6-meme-x-01/Indramunggahari10/gta6-meme-x-01-v4-ono10/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/vjmunggahari-ui/gta6-meme-x-01-v4-ono10/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/vjmunggahari-ui/gta6-meme-x-01-v4-ono10/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
 ![Certificate of Live Birth for Grand Theft Auto VI](birth-certificate.png)
 
